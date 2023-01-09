@@ -3,15 +3,16 @@
         <title>My New Hugo Site</title>
         <link>http://example.org/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Jan 2023 11:35:49 -0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>benjamin_maizes@brown.edu (Benjamin Maizes)</managingEditor>
+            <webMaster>benjamin_maizes@brown.edu (Benjamin Maizes)</webMaster><lastBuildDate>Mon, 09 Jan 2023 14:25:25 -0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Test 1</title>
+    <title>Welcome!</title>
     <link>http://example.org/first_post/</link>
-    <pubDate>Fri, 06 Jan 2023 11:35:49 -0800</pubDate>
-    <author>xxxx</author>
+    <pubDate>Mon, 09 Jan 2023 14:25:25 -0800</pubDate>
+    <author>Benjamin Maizes</author>
     <guid>http://example.org/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[Hi there! My name is Benjamin Maizes (Ben) and I am excited to welcome you to my new website. My GitHub is: https://github.com/bmaizes My LinkedIn is: https://www.linkedin.com/in/benjamin-maizes/ My contact information can be found in the &ldquo;contact&rdquo; section of the website and a blurb about myself is located in the about me section. Thanks for checking this out!]]></description>
 </item>
 </channel>
 </rss>
